@@ -1,18 +1,29 @@
 # X.3 A Tour of C++: Basics
 
-2.
-  Compiler:  process source text into object files
-  Linker: combine object files, and yield an executable program
+## [2]
+### Compiler:
+Process source text into object files.
 
-3. src/hello.c++
-  % clang -o hello hello.c++
-  % ./hello
-  Hello, World
+### Linker:
+Combine object files, and yield an executable program.
 
-4. GNU GCC, LLVM Clang, Intel C++ Compiler
+## [3]
+`src/hello.c++`
 
-5. src/write.c++
+    clang -o hello hello.c++
+    ./hello
+    Hello, World
 
-6. src/read.c++
+## [4]
+* GNU GCC
+* LLVM Clang
+* Intel C++ Compiler
 
-7.
+## [5]
+`src/write.c++`
+
+## [6]
+`src/read.c++`
+
+## [7]
+
